@@ -14,7 +14,7 @@ PDF-LLM is a Streamlit-based web application that allows users to upload PDF fil
 ### Prerequisites
 - Python 3.11+
 - MongoDB instance (local or cloud-based like MongoDB Atlas)
-- OpenAI API key
+- OpenAI API key. Go to https://platform.openai.com/settings/organization/billing/overview to add balance.
 
 ### Installation
 1. Clone the repository:
