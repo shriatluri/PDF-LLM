@@ -1,0 +1,10 @@
+#the following libraries are needed to be installed before running the PDF-LLM
+pip install streamlit==1.11.1
+pip install openai==0.27.0
+pip install langchain-community==0.0.10
+pip install langchain-openai==0.0.10
+pip install langchain-core==0.0.10
+pip install python-dotenv==0.21.0
+pip install urllib3==1.26.12
+pip install pymongo==3.12.1
+pip install pymupdf==1.18.19
