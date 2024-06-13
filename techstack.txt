@@ -1,0 +1,5 @@
+Python - developer code
+Langchain - retriever code
+StreamLit - frontend integeration
+MongoDB - Database for user memory storage
+OpenAI API Services - Access to open AI model
