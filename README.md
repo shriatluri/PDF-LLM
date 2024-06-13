@@ -50,33 +50,3 @@ PDF-LLM is a Streamlit-based web application that allows users to upload PDF fil
 3. Enter your OpenAI API key, email, and password in the sidebar.
 
 4. Upload a PDF file and ask questions about its content.
-
-## Project Structure
-PDF-LLM/
-│
-├── README.md               # Project description and instructions
-├── requirements.txt        # List of dependencies
-├── setup.py                # Setup script for installing the package (if needed)
-│
-│
-|__ setup.py                # Setup and Description
-|
-|__ .env                    # OPENAPIKEY = <your open api key>
-│      
-├── app.py
-│   ├── __init__.py         # Indicates that src is a Python package
-│   ├── data/
-│   │   ├── __init__.py     # Indicates that data is a Python package
-│   │   └── make_dataset.py # Script to make datasets
-│   ├── features/
-│   │   ├── __init__.py     # Indicates that features is a Python package
-│   │   └── build_features.py # Scripts to turn raw data into features for modeling
-│   ├── models/
-│   │   ├── __init__.py     # Indicates that models is a Python package
-│   │   └── train_model.py  # Scripts to train models and make predictions
-    └── utils/
-        ├── __init__.py     # Indicates that utils is a Python package
-        └── helpers.py      # Utility scripts
-
-
-    
