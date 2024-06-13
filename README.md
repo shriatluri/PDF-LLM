@@ -51,7 +51,7 @@ PDF-LLM is a Streamlit-based web application that allows users to upload PDF fil
 
 4. Upload a PDF file and ask questions about its content.
 
-### Quantifiable Impact of the PDF-LLM Project
+### Quantifiable Impact of this project
 
 #### 1. **Enhanced Productivity**
 - **Time Savings**: Automating the extraction and querying of information from PDFs can save significant time. For instance, if a user spends 10 minutes manually searching a 50-page document and the tool reduces this to 1 minute, it’s a 90% reduction in time spent.
